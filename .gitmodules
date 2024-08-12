@@ -1,3 +1,6 @@
 [submodule "html-examples-bnb"]
 	path = html-examples-bnb
 	url = https://github.com/mateuscqueiros/html-examples-bnb
+[submodule "position-bnb-2"]
+	path = position-bnb-2
+	url = https://github.com/mateuscqueiros/position-bnb-2
