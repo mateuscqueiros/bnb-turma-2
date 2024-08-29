@@ -13,3 +13,6 @@
 [submodule "javascript-test"]
 	path = javascript-test
 	url = git@github.com:mateuscqueiros/js-intro-bnb-2.git 
+[submodule "grid-bnb-2"]
+	path = grid-bnb-2
+	url = https://github.com/mateuscqueiros/grid-bnb-2
