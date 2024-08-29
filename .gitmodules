@@ -10,3 +10,6 @@
 [submodule "flexbox-bnb-2"]
 	path = flexbox-bnb-2
 	url = git@github.com:mateuscqueiros/flexbox-bnb-2.git
+[submodule "javascript-test"]
+	path = javascript-test
+	url = git@github.com:mateuscqueiros/js-intro-bnb-2.git 
