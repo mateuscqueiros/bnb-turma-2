@@ -16,3 +16,6 @@
 [submodule "grid-bnb-2"]
 	path = grid-bnb-2
 	url = https://github.com/mateuscqueiros/grid-bnb-2
+[submodule "menu-js-bnb-2"]
+	path = menu-js-bnb-2
+	url = https://github.com/mateuscqueiros/menu-js-bnb-2
