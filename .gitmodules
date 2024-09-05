@@ -19,3 +19,9 @@
 [submodule "menu-js-bnb-2"]
 	path = menu-js-bnb-2
 	url = https://github.com/mateuscqueiros/menu-js-bnb-2
+[submodule "arrays-js-bnb-2"]
+	path = arrays-js-bnb-2
+	url = git@github.com:mateuscqueiros/arrays-js-bnb-2.git
+[submodule "functions-bnb-2"]
+	path = functions-bnb-2
+	url = git@github.com:mateuscqueiros/functions-bnb-2.git
