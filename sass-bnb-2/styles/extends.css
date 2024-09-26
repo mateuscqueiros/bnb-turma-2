@@ -1,0 +1,19 @@
+@charset "UTF-8";
+.warning, .error, .success, .message {
+  border: 1px solid #ccc;
+}
+
+/* Não é gerada */
+.success {
+  border-color: green;
+}
+
+.error {
+  border-color: red;
+}
+
+.warning {
+  border-color: yellow;
+}
+
+/*# sourceMappingURL=extends.css.map */
